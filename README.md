@@ -30,3 +30,6 @@ a.	List of Access cards and their format
 a.	Maps Employee to Access Card and sets access attributes 
 4.	Location Master
 a.	List of all locations (hierarchical relationship table)
+
+# API documentation
+https://documenter.getpostman.com/view/7789143/T1LJjoYx
